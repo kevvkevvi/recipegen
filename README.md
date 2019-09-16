@@ -14,7 +14,7 @@ The results of each iteration will be saved in a “iterations” directory loca
 
 
 
-External Sources
+External Sources<br/>
 https://stackoverflow.com/
 https://docs.python.org/3/
 Parse.py library retrieved from https://github.com/r1chardj0n3s/parse
