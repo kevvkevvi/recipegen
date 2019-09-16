@@ -15,6 +15,6 @@ The results of each iteration will be saved in a “iterations” directory loca
 
 
 External Sources<br/>
-https://stackoverflow.com/
-https://docs.python.org/3/
+https://stackoverflow.com/<br/>
+https://docs.python.org/3/<br/>
 Parse.py library retrieved from https://github.com/r1chardj0n3s/parse
